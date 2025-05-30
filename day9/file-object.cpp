@@ -55,4 +55,10 @@ int main(){
     car1.addCarFeatures(features_count);
     car1.storeCarDetails();
 
+    Car car2;
+    car2.addCarDetails("audi","Q6","petrol",2019,12345);
+    car2.addCarFeatures(4);
+    car2.storeCarDetails();
+
+
 }
