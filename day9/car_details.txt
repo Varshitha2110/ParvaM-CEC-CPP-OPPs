@@ -1,0 +1,10 @@
+ the Car Details are as follows: 
+ Car Brand:tata
+ Car Model:curvv
+ Car varient: pertrol
+ launch year:2025
+offer price:Rs.1546474
+Car has these features:
+	1.5 seaters
+	2.oof opening
+----------------
